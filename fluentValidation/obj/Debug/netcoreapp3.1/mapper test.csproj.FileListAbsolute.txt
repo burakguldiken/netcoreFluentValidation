@@ -1,0 +1,25 @@
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\mapper test.exe
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\mapper test.csprojAssemblyReference.cache
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\mapper test.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\mapper test.AssemblyInfo.cs
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\mapper test.csproj.CopyComplete
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\mapper test.deps.json
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\mapper test.runtimeconfig.json
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\mapper test.runtimeconfig.dev.json
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\mapper test.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\mapper test.pdb
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\mapper test.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\mapper test.pdb
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll

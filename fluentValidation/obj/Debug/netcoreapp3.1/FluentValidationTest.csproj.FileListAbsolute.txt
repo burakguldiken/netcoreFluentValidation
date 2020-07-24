@@ -1,0 +1,50 @@
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.exe
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.deps.json
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.runtimeconfig.json
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.runtimeconfig.dev.json
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.pdb
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.csprojAssemblyReference.cache
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.AssemblyInfo.cs
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.csproj.CopyComplete
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.dll
+C:\Users\Cloudberry\source\repos\mapper test\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.pdb
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.exe
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.deps.json
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.runtimeconfig.json
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.runtimeconfig.dev.json
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\FluentValidationTest.pdb
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.csprojAssemblyReference.cache
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.AssemblyInfo.cs
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.csproj.CopyComplete
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.dll
+C:\Users\Cloudberry\Desktop\FluentValidation\mapper test\obj\Debug\netcoreapp3.1\FluentValidationTest.pdb
